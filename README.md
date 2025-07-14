@@ -12,19 +12,11 @@ Sou motivado por colaborar com diferentes pessoas e ver os projetos gerando impa
 
 Caso queira me encontrar:
 
+### Caso queira me encontrar:
+
 <p align="left">
-    <a href="https://www.linkedin.com/in/marcodelph">
-        <img 
-            alt="LinkedIn"
-            title="Conecte-se no LinkedIn"
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-    <a href="mailto:mfs.delphin@gmail.com" target="_blank">
-        <img 
-            src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"
-        />
-    </a>
+<a href="https://www.linkedin.com/in/marcodelph/" target="_blank" style="margin-right: 10px;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:mfs.delphin@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
