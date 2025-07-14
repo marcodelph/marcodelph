@@ -25,11 +25,9 @@ Sou motivado por colaborar com diferentes pessoas e ver os projetos gerando impa
 
 <div align="left">
     <img alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-    <img alt="PySpark" title="PySpark" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pyspark/pyspark-original-wordmark.svg" />
-    <img alt="SQL" title="SQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
     <img alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-    <img alt="Snowflake" title="Snowflake" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/snowflake/snowflake-original.svg" />
-    <img alt="dbt" title="dbt" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbt/dbt-original.svg" />
+    <img alt="Snowflake" title="Snowflake" width="30px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/snowflake/29B5E8" />
+    <img alt="dbt" title="dbt" width="30px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/dbt/FF694B" />
     <img alt="Azure" title="Azure" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
     <img alt="Power BI" title="Power BI" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" />
     <img alt="Apache Airflow" title="Apache Airflow" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" />
