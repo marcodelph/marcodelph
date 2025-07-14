@@ -9,6 +9,9 @@ Ao longo da minha graduação, atuei em diversos projetos acadêmicos e integrei
 Além disso, tenho um grande interesse na área de inovação em saúde e IA. Durante a graduação, me especializei em Engenharia Biomédica e participei de um programa de intercâmbio em um Master de Engenharia Biomédica, com foco em disciplinas de dados e IA.
 
 Sou motivado por colaborar com diferentes pessoas e ver os projetos gerando impacto real na vida de alguém.
+
+Caso queira me encontrar:
+
 <p align="left">
     <a href="https://www.linkedin.com/in/marcodelph">
         <img 
@@ -17,6 +20,7 @@ Sou motivado por colaborar com diferentes pessoas e ver os projetos gerando impa
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
+    <a href="mailto:mfs.delphin@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
@@ -37,7 +41,6 @@ Sou motivado por colaborar com diferentes pessoas e ver os projetos gerando impa
 <br/>
 <br/>
 
-<br/>
 
 ### 📊 Estatísticas
 
