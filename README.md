@@ -10,8 +10,6 @@ Além disso, tenho um grande interesse na área de inovação em saúde e IA. Du
 
 Sou motivado por colaborar com diferentes pessoas e ver os projetos gerando impacto real na vida de alguém.
 
-Caso queira me encontrar:
-
 ### Caso queira me encontrar:
 
 <p align="left">
