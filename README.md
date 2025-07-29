@@ -6,9 +6,9 @@ Sou Marco, engenheiro eletricista formado pela Poli-USP, atualmente me especiali
 
 Ao longo da minha graduação, atuei em diversos projetos acadêmicos e integrei o grupo ARGO – Inovação em Saúde, onde desenvolvi projetos de software e liderei a equipe de programação no desenvolvimento de uma aplicação em Flutter e Firestore.
 
-Além disso, tenho um grande interesse na área de inovação em saúde e IA. Durante a graduação, me especializei em Engenharia Biomédica e participei de um programa de intercâmbio em um Master de Engenharia Biomédica, com foco em disciplinas de dados e IA.
+Além disso, tenho um grande interesse na área de inovação e IA. Durante a graduação, me especializei em Engenharia Biomédica e participei de um programa de intercâmbio em um Master de Engenharia Biomédica, com foco em disciplinas de dados e IA.
 
-Sou motivado por colaborar com diferentes pessoas e ver os projetos gerando impacto real na vida de alguém.
+Sou motivado por colaborar com diferentes pessoas e ver os projetos gerando impacto real!
 
 ### Caso queira me encontrar:
 
